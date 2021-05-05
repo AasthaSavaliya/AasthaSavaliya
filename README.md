@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://aasthasavaliya.github.io/](https://aasthasavaliya.github.io/)
 
-- <p><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm interested in **Web Development**</p> 
+- <p><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **I'm interested in **Web Development**</p> 
 
 - 📫 How to reach me **aasthasavaliya26@gmail.com**
 
