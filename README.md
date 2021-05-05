@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Aastha Savaliya  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer</h3>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 - 🌱 I’m currently learning **Node.js, Django, Flask**
