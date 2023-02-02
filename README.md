@@ -20,5 +20,5 @@ Connect with me: [![Linkedin: AasthaSavaliya](https://img.shields.io/badge/-aast
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aasthasavaliya&show_icons=true&locale=en&layout=compact" alt="aasthasavaliya" /></p><br>
 
 
-<br><br><br><br><br><br><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<br><br><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
