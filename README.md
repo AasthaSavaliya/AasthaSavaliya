@@ -8,7 +8,7 @@
 
 - 👨‍💻 My portfolio [http://aastha.tech/](http://aastha.tech/)
 
-- <p><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm interested in <strong>Web Development</strong></p> 
+- <p><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Bridging the gap between business and technology.</p> 
 
 - 📫 How to reach me **aasthasavaliya26@gmail.com**
 
