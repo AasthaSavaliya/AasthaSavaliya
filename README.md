@@ -4,7 +4,7 @@
 <!-- <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> -->
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="450" height="320" />
 
-- 🌱 Skilled in **HTML, CSS (Sass), JavaScript, React.JS, Gatsby.**
+- 🌱 Skilled in **HTML, CSS (Sass), JavaScript, React.JS, Next.js, Gatsby.**
 
 - 👨‍💻 My portfolio [http://aastha.tech/](http://aastha.tech/)
 
