@@ -6,7 +6,7 @@
 
 - 🌱 Skilled in **HTML, CSS (Sass), JavaScript, React.JS, Next.js, Gatsby, Typescript, GraphQL, Contentful, Tableau**
 
-- 👨‍💻 My portfolio [[aasthasavaliya.github.io](https://aasthasavaliya.github.io/)]([aasthasavaliya.github.io](https://aasthasavaliya.github.io/))
+- 👨‍💻 My portfolio ([aasthasavaliya.github.io](https://aasthasavaliya.github.io/))
 
 - <p><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Bridging the gap between business and technology.</p> 
 
